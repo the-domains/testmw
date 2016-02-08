@@ -2,6 +2,7 @@ name: testmw
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.83555
+title: mytestsite
 cta:
   domain: null
   bucket: null
