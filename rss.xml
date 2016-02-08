@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testmw]]></title>
+        <description><![CDATA[testmw]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 18:39:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cake is awesome.]]></title>
+            <description><![CDATA[<article><h1>Cake is awesome.</h1><p>I love cake more than life and you can too.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63302aa9-5f3b-4749-8aa7-e153f4afd674.png"></article>]]></description>
+            <link>undefinedcake-is-awesome/index.html</link>
+            <guid isPermaLink="false">8f2a1f27-f9f5-468d-820d-16b83da927c6</guid>
+            <pubDate>Mon, 08 Feb 2016 18:37:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
