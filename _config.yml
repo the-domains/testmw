@@ -1,0 +1,28 @@
+name: testmw
+favicon: null
+layout_spectrum: 0.6285074010957032
+typography_spectrum: 0.7023644126020372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4371650065295398
+  lightness: 0.49921841570176184
+  saturation: 0.12305126897990704
+  rhythmicContrast: 0.5747402210254222
+purpose: []
